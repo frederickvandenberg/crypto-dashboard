@@ -5,4 +5,4 @@ Exploring CoinGecko's free API for cryptocurrency market data using Plotly Dash 
 Todo:
   1. Comprehensive exchange comparison
 
-![Opps, Not found!](https://github.com/frederickvandenberg/crypto-dashboard/blob/master/Layout.png?raw=true)
+![Opps, Not found!](https://github.com/frederickvandenberg/crypto-dashboard/blob/main/Layout.png)
