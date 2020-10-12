@@ -1,4 +1,4 @@
-# CoinGeckoAPI Simple Dashboard
+# Simple Crypto Dashboard
 
 Exploring CoinGecko's free API for cryptocurrency market data using Plotly Dash for data visualisation.
 
