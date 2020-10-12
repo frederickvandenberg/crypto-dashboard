@@ -9,5 +9,6 @@ Filters:
 Todo:
   1. Comprehensive exchange comparison
   2. Expand filter list by geotag
+  3. Other market/commodity correlations
 
 ![Opps, Not found!](https://github.com/frederickvandenberg/crypto-dashboard/blob/main/Layout.png)
