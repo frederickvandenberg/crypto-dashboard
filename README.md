@@ -3,7 +3,9 @@
 Exploring CoinGecko's free API for cryptocurrency market data using Plotly Dash for data visualisation.
 
 Filters:
+
   a. Date range
+  
   b. Cryptocurrency
   
 Todo:
